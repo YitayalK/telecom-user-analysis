@@ -1,4 +1,4 @@
-# Telecom Data Analysis and Customer Insights
+# Telecom Data Analysis
 
 ## Overview
 
