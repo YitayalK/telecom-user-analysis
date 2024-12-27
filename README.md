@@ -46,10 +46,8 @@ The primary objectives of this project include:
 ---
 
 ## Repository Contents
-- **`data/`**: Contains the raw and preprocessed telecom dataset.  
 - **`notebooks/`**: Jupyter notebooks with step-by-step analysis for each task.  
-- **`scripts/`**: Python scripts for cleaning, clustering, regression, and database operations.  
-- **`outputs/`**: Visualizations, cluster summaries, and exported tables.  
+- **`scripts/`**: Python scripts for and database operations.  
 - **`README.md`**: Overview of the project and repository.
 
 ---
@@ -73,11 +71,5 @@ The primary objectives of this project include:
    ```
 3. Run the notebooks or scripts for specific tasks.
 
----
 
-## Contributing
-Feel free to fork the repository, submit pull requests, or report issues to contribute to this project.
 
----
-
-Let me know if you'd like to add further details, such as a specific file structure or contributor guidelines.
